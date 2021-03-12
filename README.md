@@ -3,7 +3,7 @@
 
 ## О проекте
 
-5 блоков с кнопками (якорные ссылки) и формой
+Резюме-шаблон для Лёши
 
 ### Используемые технологии
 
@@ -15,4 +15,4 @@
 
 **GitHub Pages**
 
-* [Ссылка на GitHub Pages](https://petr-abakumow.github.io/LevelUp/)
+* [Ссылка на GitHub Pages](https://petr-abakumow.github.io/project-for-brother/)
