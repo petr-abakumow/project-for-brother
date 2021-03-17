@@ -6,3 +6,9 @@
     margin: 15px 0 0 0;
     flex-wrap: wrap;
 }
+
+@media screen and (max-width: 375px) {
+    .contacts-block__list {
+        justify-content: center;
+    }
+}
