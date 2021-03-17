@@ -1,4 +1,5 @@
-.info__box {
+.contacts-block__info {
+    margin: 0 0 0 20px;
     display: flex;
     flex-direction: column;
 }

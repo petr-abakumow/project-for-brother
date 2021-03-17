@@ -1,0 +1,14 @@
+@import url(./__image/contacts-block__image.css);
+@import url(./__info/contacts-block__info.css);
+@import url(./__title/contacts-block__title.css);
+@import url(./__geo/contacts-block__geo.css);
+@import url(./__list/contacts-block__list.css);
+@import url(./__list-item/contacts-block__list-item.css);
+@import URL(./__button/contacts-block__button.css);
+@import url(./__phone-image/contacts-block__phone-image.css);
+
+.contacts-block {
+    display: flex;
+    width: 95%;
+    margin: 20px auto 0;
+}

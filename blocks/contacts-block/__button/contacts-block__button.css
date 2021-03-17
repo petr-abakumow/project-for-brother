@@ -1,0 +1,8 @@
+.contacts-block__button {
+    border-radius: 50px;
+    background-color: white;
+    border: none;
+    box-sizing: border-box;
+    padding: 12px 0;
+    width: 180px;
+}

@@ -1,0 +1,8 @@
+.contacts-block__list {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    gap: 10px;
+    margin: 15px 0 0 0;
+    flex-wrap: wrap;
+}

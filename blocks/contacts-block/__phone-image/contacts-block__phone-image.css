@@ -1,0 +1,6 @@
+.contacts-block__phone-image {
+    width: 100%;
+    max-width: 15px;
+    margin-right: 10px;
+    transform: rotate(-6deg);
+}
