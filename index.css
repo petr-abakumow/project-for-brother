@@ -7,6 +7,8 @@
 @import url(./blocks/contacts-block/__button/_chat/contacts-block__button_chat.css);
 @import url(./blocks/contacts-block/__button/_leed/contacts-block__button_leed.css);
 @import url(./blocks/contacts-block/__list-item/_chat/contacts-block__list-item_chat.css);
+@import url(./blocks/popup-phone/popup-phone.css);
+@import url(./blocks/popup-phone/_opened/popup-phone_opened.css);
 
 
 button, 

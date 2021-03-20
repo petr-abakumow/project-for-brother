@@ -1,0 +1,6 @@
+.popup-phone_opened {
+    visibility: visible;
+    opacity: 1;
+    transform: scale(1);
+    transition: transform 0.2s;
+}
