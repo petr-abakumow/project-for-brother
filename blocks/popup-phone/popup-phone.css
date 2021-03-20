@@ -1,4 +1,6 @@
 @import url(./__container/popup-phone__container.css);
+@import url(./__namber/popup-phone__namber.css);
+@import url(./__name/popup-phone__name.css);
 
 .popup-phone {
     position: absolute;
