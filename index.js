@@ -24,10 +24,8 @@ popupPhone.addEventListener('click', (evt) => {
     if (evt.target === evt.currentTarget) {
         popupPhoneClosed();
     }
+    if (evt.key === 'backbutton') {
+        popupPhoneClosed();
+    }
 })
 
-function onBackKeyDown(e) {
-    e.preventDefault();
-  
-  }
-  document.addEventListener('backbutton', onBackKeyDown, false);
