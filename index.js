@@ -26,8 +26,8 @@ popupPhone.addEventListener('click', (evt) => {
     }
 })
 
-document.addEventListener('backbutton',() => {
-    if (popupPhone.classList.contains('popup-phone_opened')) {
-        popupPhoneClosed();
-    }
-});
+function onBackKeyDown(e) {
+    e.preventDefault();
+  
+  }
+  document.addEventListener('backbutton', onBackKeyDown, false);
