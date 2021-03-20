@@ -7,8 +7,9 @@
     flex-wrap: wrap;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 768px) {
     .contacts-block__list {
         justify-content: center;
     }
 }
+

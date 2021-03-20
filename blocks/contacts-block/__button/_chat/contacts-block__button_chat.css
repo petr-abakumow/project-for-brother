@@ -1,4 +1,10 @@
 .contacts-block__button_chat {
     background-color: #e8f1f6;
-    width: 100px;
+    width: 180px;
+}
+
+@media screen and (max-width: 425px) {
+    .contacts-block__button_chat {
+        max-width: 120px;
+    }
 }
