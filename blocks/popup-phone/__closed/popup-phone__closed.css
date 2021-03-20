@@ -1,0 +1,15 @@
+.popup-phone__closed {
+    height: 55px;
+    width: 55px;
+    background-image: url(../../../images/close-icon.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    align-self: flex-end;
+}
+
+.popup-phone__closed:hover {
+    cursor: pointer;
+    opacity: 0.7;
+    transition: opacity 0.2s;
+}
