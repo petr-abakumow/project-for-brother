@@ -5,3 +5,10 @@
     border-radius: 5px;
 }
 
+@media screen and (min-width: 769px) {
+    .contacts-block__image {
+        max-width: 150px;
+        max-height: 150px;
+    }
+}
+
