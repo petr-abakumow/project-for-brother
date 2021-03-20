@@ -3,7 +3,7 @@
 @import url(./__name/popup-phone__name.css);
 
 .popup-phone {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
@@ -15,4 +15,5 @@
     transform: scale(0);
     transition: transform 0.2s;
     opacity: 0;
+    
 }
