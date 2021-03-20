@@ -3,8 +3,8 @@
     width: 180px;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 620px) {
     .contacts-block__button_chat {
-        max-width: 120px;
+        width: 100%;
     }
 }

@@ -3,8 +3,8 @@
     color: white;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 620px) {
     .contacts-block__button_tel {
-        max-width: 120px;
+        width: 100%;
     }
 }

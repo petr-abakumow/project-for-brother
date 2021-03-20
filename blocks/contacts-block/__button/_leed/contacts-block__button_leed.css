@@ -1,3 +1,9 @@
 .contacts-block__button_leed {
     background-color: #e8f1f6;
 }
+
+@media screen and (max-width: 620px) {
+    .contacts-block__button_leed {
+        width: 100%;
+    }
+}

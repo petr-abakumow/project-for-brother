@@ -1,3 +1,15 @@
 .contacts-block__list-item {
     display: flex;
 }
+
+@media screen and (max-width: 620px) {
+    .contacts-block__list-item:last-child {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 620px) {
+    .contacts-block__list-item:first-child {
+        width: 48%;
+    }
+}

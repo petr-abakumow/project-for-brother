@@ -13,3 +13,9 @@
     }
 }
 
+@media screen and (max-width: 620px) {
+    .contacts-block__list {
+        justify-content: space-between;
+    }
+}
+
